@@ -17,7 +17,7 @@ Each repository may have additional unique dependencies
 
 ## Features
 - Common Utils
-- Resource Path Management
+- Resource Management
 - Map Generation
 - Tool
 - In-Game Management
