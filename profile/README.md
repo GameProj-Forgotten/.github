@@ -29,8 +29,9 @@ Each repository may have additional unique dependencies
 Fogotten
 ├── Common Util
 │   └── <Repo> CommonUtilLib
-├── Resource Path Management
-│   └── <Repo> ResourcePathManagementLib
+├── Resource Management
+│   ├── <Repo> ResourcePathManagementLib
+│   └── <Repo> ResourceDataManagementLib
 ├── Map Generation
 │   ├── <Repo> ChiefMapGenerationLib
 │   └── <Repo> MapGenerationAgent
