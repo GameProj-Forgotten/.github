@@ -38,8 +38,6 @@ Fogotten
 ├── Tool
 │   └── <Repo> MapGenerationInputTool
 └── In-Game Management
-    ├── Map Streaming Management
-    │   └── <Repo> MapStreamingManagementLib
     └── PC/NPC Movement
         └── <Repo> PcNpcMovementLib
 ```
